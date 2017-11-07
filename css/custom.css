@@ -1,1 +1,11 @@
 /* Add here all your CSS customizations */
+@media only screen and (min-width: 1836px) {
+    .owl-carousel {
+        margin-left: 150px;
+    }
+}
+@media only screen and (min-width: 1836px) {
+    .imagesCSS > img {
+        width: 25%;
+    }
+}
