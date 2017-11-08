@@ -330,7 +330,7 @@ html .scroll-to-top.visible {
 	}
 }
 #header .header-nav-main nav > ul > li:hover > a, #header .header-nav-main nav > ul > li.active > a {
-	color: #019fdc !important;
+	color: #0192AA !important;
 }
 #header .header-nav-main nav > ul > li.active > a:before {
 	content: '';
@@ -338,7 +338,7 @@ html .scroll-to-top.visible {
 	position: absolute;
 	left: 0;
 	bottom: -15px;
-	border-bottom: 3px solid #019fdc;
+	border-bottom: 3px solid #0192AA;
 	width: 100%;
 }
 @media (max-width: 991px) {

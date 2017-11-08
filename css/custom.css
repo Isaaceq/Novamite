@@ -1,11 +1,33 @@
 /* Add here all your CSS customizations */
+#our-team {
+  background-color: #0192AA !important;
+}
+
+#teamCard > .custom-thumb-info-style-2 {
+  background-color: #0192AA !important;
+}
+
+#teamCard > .center {
+  background-color: #0192AA !important;
+}
+
+
 @media only screen and (min-width: 1836px) {
     .owl-carousel {
         margin-left: 150px;
     }
 }
+
 @media only screen and (min-width: 1836px) {
-    .imagesCSS > img {
-        width: 25%;
+    .cImage {
+      bottom: 50%;
+      left: 45%;
     }
+}
+
+@media (max-width: 1199px) and (min-width: 992px) {
+    .cImage {
+      bottom: 55% !important;
+      left: 20% !important;
+  }
 }

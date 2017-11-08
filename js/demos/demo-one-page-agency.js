@@ -4,7 +4,10 @@ Written by: 	Okler Themes - (http://www.okler.net)
 Theme Version:	5.7.2
 */
 
+
 (function( $ ) {
+
+
 
 	'use strict';
 
@@ -65,7 +68,7 @@ Theme Version:	5.7.2
 			disable_onmobile:"off"
 		}
 	}
-		
+
 	/*
 	* Slider Init
 	*/
@@ -79,7 +82,7 @@ Theme Version:	5.7.2
 	        scrollTop: $(".header-btn-collapse-nav").offset().top - 18
 	    }, 300);
 	});
-	
+
 	/*
 	* Isotope
 	*/

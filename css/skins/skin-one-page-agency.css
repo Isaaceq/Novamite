@@ -32,7 +32,7 @@ html .heading.heading-primary h6 {
 html .heading-secondary,
 html .lnk-secondary,
 html .text-color-secondary {
-	color: #8ad2f3 !important;
+	color: #0192AA !important;
 }
 
 html .heading.heading-secondary h1,
@@ -374,21 +374,21 @@ html .label-light {
 
 html .btn-primary {
 	color: #ffffff;
-	background-color: #019fdc;
-	border-color: #019fdc #019fdc #017aa9;
+	background-color: #0192AA;
+	border-color: #0192AA #0192AA #017aa9;
 }
 
 html .btn-primary:hover {
-	border-color: #01b1f5 #01b1f5 #018dc3;
-	background-color: #01b1f5;
+	border-color: #007689 #007689 #018dc3;
+	background-color: #007689;
 }
 
 html .btn-primary:active,
 html .btn-primary:focus,
 html .btn-primary:active:hover,
 html .btn-primary:active:focus {
-	border-color: #018dc3 #018dc3 #018dc3;
-	background-color: #018dc3;
+	border-color: #007689 #007689 #007689;
+	background-color: #007689;
 }
 
 html .btn-primary.dropdown-toggle {
